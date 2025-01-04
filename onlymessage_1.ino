@@ -6,7 +6,7 @@ const char* ssid = "Main Server";         // Wi-Fi network name
 const char* password = "admin@123";      // Wi-Fi password
 
 // MQTT broker details
-const char* mqtt_server = "192.168.1.100"; // MQTT broker IP
+const char* mqtt_server = "5.196.78.28"; // MQTT broker IP
 const char* mqtt_user = "";               // MQTT username (if any)
 const char* mqtt_password = "";           // MQTT password (if any)
 
